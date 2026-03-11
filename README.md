@@ -4,6 +4,9 @@ A lightweight Python-based resume and cover letter generator for tailoring appli
 
 This project builds customized resume and cover letter outputs by mixing and matching reusable content blocks such as summary variants, skills sections, and experience bullets. It can also infer a company name and role from a pasted job description, choose an appropriate resume profile, and export polished PDFs using Pandoc + WeasyPrint.
 
+**Note**
+This repo was built for my own resume/job-search workflow, so parts of it are intentionally personalized. That said, the underlying setup is reusable: swap in your own content files, update the script logic to match your background, and it should be pretty straightforward to adapt.
+
 ## Features
 
 - Generate resumes from reusable markdown content blocks
