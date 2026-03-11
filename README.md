@@ -23,7 +23,6 @@ This repo was built for my own resume/job-search workflow, so parts of it are in
 ## Project Structure
 
 ```text
-.
 ├── build_resume.py            # Simple block-based resume builder
 ├── build_from_jd.py           # Main job-description-driven generator
 ├── build_from_clipboard.py    # macOS helper: reads JD from clipboard
