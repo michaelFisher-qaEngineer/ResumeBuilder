@@ -1,0 +1,8 @@
+- Developed automated REST API tests using Java and Spring RestTemplate to validate backend services, business logic, and service integrations.
+- Utilized JSON parsing and programmatic assertions within Java-based API tests to verify response accuracy and business rule compliance.
+- Designed and executed automated UI tests using Selenium WebDriver (Java) with Cucumber and TestNG within an established automation framework, expanding regression coverage across enterprise web applications.
+- Built Cypress-based UI smoke and regression tests (JavaScript), including API calls for test data setup and response mocking.
+- Tested enterprise financial systems supporting high-volume transaction processing and complex data validation workfows.
+- Executed automated regression suites through Jenkins and Azure DevOps pipelines using Maven to support continuous testing practices.
+- Investigated automation failures and application defects through log analysis, debugging test scripts, and validating system behavior.
+- Validated backend data integrity using SQL queries and API responses while collaborating with developers to reproduce defects and resolve integration issues.

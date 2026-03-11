@@ -1,0 +1,58 @@
+@page {
+  margin: 0.6in;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.25;
+  max-width: 850px;
+  margin: auto;
+  font-size: 11pt;
+}
+
+h1 {
+  font-size: 20pt;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+}
+
+h2 {
+  font-size: 15pt;
+  margin-bottom: 10px;   /* space between Experience and first job */
+}
+
+h3 {
+  margin: 6px 0 0 0;
+}
+
+h3 ~ p {
+  margin: 0 0 2px 0;
+  font-size: 10pt;
+}
+
+/* spacing after divider before next role */
+hr {
+  margin: 12px 0 6px 0;
+}
+
+hr + h3 {
+  margin-top: 10px;
+}
+
+/* remove empty paragraph spacing pandoc sometimes creates */
+p:empty {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+p + ul {
+  margin-top: 2px;
+}
+
+ul {
+  margin: 4px 0 8px 18px;
+}
+
+li {
+  margin: 2px 0;
+}

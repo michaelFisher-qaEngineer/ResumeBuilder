@@ -1,0 +1,4 @@
+- Executed functional, integration, and system testing across large-scale enterprise web and distributed applications supporting global users.
+- Validated REST APIs and backend services using Postman and SQL queries to verify data integrity and service behavior.
+- Developed structured test cases aligned with product requirements and integration workflows.
+- Collaborated with developers, QA engineers, and product teams in Agile environments to investigate defects, validate fixes, and ensure high-quality releases.

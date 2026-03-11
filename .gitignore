@@ -1,0 +1,17 @@
+# generated outputs
+*.pdf
+LOG_*.txt
+Michael_Fisher_*.md
+Michael_Fisher_*.pdf
+resume_generated.md
+
+# local tracking / input
+applications_log.csv
+jd.txt
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# optional output folder
+resumes/
